@@ -2747,5 +2747,47 @@ p:SID TeleSUR
 196d:ffff0000:0041:0036:1:0
 BVN
 p:SID BVN
+113d:ffff0000:002c:0036:1:0
+Sport TV 6 HD
+p:Sport TV 6 HD
+1970:ffff0000:0041:0036:1:0
+Panda KIDS
+p:Panda KIDS,C:0000
+0faf:ffff0000:0028:0036:1:0
+MTV Portugal
+p:SID MTV Portugal
+1a99:ffff0000:0044:0036:1:0
+ADVNCE
+p:ADVNCE,C:0000
+113b:ffff0000:002c:0036:1:0
+TVM
+p:SID TVM
+0fac:ffff0000:0028:0036:1:0
+Canal Galeria
+p:Canal Galeria,C:0000
+0ed9:0ce40000:0026:0036:1:0
+Sport TV 5 HD
+p:Sport TV 5 HD,c:00195d,c:01195e,c:03195d,c:050001,C:1802
+0edb:0ce40000:0026:0036:1:0
+Sport TV 6 HD
+p:Sport TV 6 HD,c:001963,c:011964,c:031963,c:050001,C:1802
+17b5:0ce40000:0026:0036:1:0
+Sport TV 5 HD
+p:,c:00195d,c:01195e,c:03195d,c:050001,C:1814
+17b6:0ce40000:0026:0036:1:0
+Sport TV 6 HD
+p:,c:001963,c:011964,c:031963,c:050001,C:1814
+113c:ffff0000:002c:0036:1:0
+Disney Junior HD
+p:Disney Junior HD
+113e:ffff0000:002c:0036:1:0
+TVI Reality Exclusivo
+p:TVI Reality Exclusivo
+1972:ffff0000:0041:0036:1:0
+HOT Man
+p:,C:0000
+1973:ffff0000:0041:0036:1:0
+HOT Taboo
+p:HOT Taboo,C:0000
 end
-Edited with dreamboxEDIT 7.2.1.0 on 27mai2021 21:17:13
+Edited with dreamboxEDIT 7.2.1.0 on 26out2021 18:20:33
